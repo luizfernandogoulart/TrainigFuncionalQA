@@ -92,7 +92,8 @@ Para entendimento inicial, o curso tem como objetivo capacitar colaboradores da 
 ​		Caso já tenha instalado o **NodeJS** não siga este passo. 
 
 ​		**Via browser** - https://nodejs.org/dist/v16.16.0/node-v16.16.0-x64.msi
-​				**Via terminal**, siga os passos abaixo:
+
+​	**Via terminal**, siga os passos abaixo:
 
 
 ​		a) Abra uma janela do terminal em seu computador. 
