@@ -1,4 +1,4 @@
-# Projeto de Conclusão de Curso - Desafio QA - Code Chalenge - Asaplog 
+# Projeto de Conclusão de Curso - Desafio QA - Code Chalenge 
 
 
 
@@ -85,9 +85,14 @@ Para entendimento inicial, o curso tem como objetivo capacitar colaboradores da 
 - #### **3.1 - Softwares úteis**
 
   - **NodeJS**, necessário para executar código JavaScript;
+
   - **Visual Studio Code** ou VSC (Editor que usamos para escrever código);
+
   - **Cypress** no qual processaremos o teste **e2e** (end to end);
+
   - **Postman** para teste de API.   
+
+    
 
 - #### **3.2 - NodeJS**
 
@@ -131,11 +136,43 @@ Para entendimento inicial, o curso tem como objetivo capacitar colaboradores da 
 
 ​		**Via browser** - https://dl.pstmn.io/download/latest/win64/
 
-​			A instrução é simples, clique no executável e siga as instruções.	    
+​			A instrução é simples, clique no executável e siga as instruções.	  
 
 
 
-## 4 - Agradecimentos
+
+
+## 4 - Execução dos Testes
+
+​	Para este projeto, os testes foram aplicados na principal bandeiras dos site da Via. O site das [Casas Bahia](https://www.casasbahia.com.br/) foi o nosso case de estudo para aplicação dos testes.   
+
+
+
+## 5 - Autor
+
+**Luiz Fernando Goulart** em estudo e desenvolvimento há 10 meses a partir do curso de aprendizado em **QA** inicialmente a partir da plataforma [Alura](https://www.alura.com.br/) e complementado com pesquisas complementares a parte no **Youtube** e em livros. 
+
+
+
+## 6 - Colaborando
+
+Contribuíram para este projeto com sua magnânima ajuda: 
+
+* **Celso Tavares** - com paciência e instrução técnica;
+
+* **Sílvio José** - instruções técnicas e tutoria
+
+* **Renato Daniel** - instruções técnicas
+
+* **Jaderson Pessoa** - instruções técnicas
+
+* **Sabrina Ellis** - mentoria 
+
+* **Vanessa de Souza** (*wife*) - mentoria, paciência e ternura
+
+  
+
+## 7 - Agradecimentos
 
 Agradeço, a todos que puderam participar com qualquer ajuda. 
 
