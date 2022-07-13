@@ -144,7 +144,15 @@ Para entendimento inicial, o curso tem como objetivo capacitar colaboradores da 
 
 ## 4 - Execução dos Testes
 
-​	Para este projeto, os testes foram aplicados na principal bandeiras dos site da Via. O site das [Casas Bahia](https://www.casasbahia.com.br/) foi o nosso case de estudo para aplicação dos testes.   
+​	Para este projeto, os testes foram aplicados na principal site bandeiras Via. O site das [Casas Bahia](https://www.casasbahia.com.br/) foi utilizado no case de estudo para aplicação dos testes. Na segunda parte do projeto fora utilizado a API do site [Openweathermap](https://openweathermap.org/current) para teste de chamada de dados de tempo.
+
+Em observação após o término dos testes, pode se notar uma maior expertise nos testes via Cypress devido ao tempo aplicado e a complexidade que os testes exigiram. O site proposto, se mostrou muito mais complexo de se testar do que outros varejistas testados a princípio. 
+
+Conforme a expertise no **framework** de teste foi ganhando corpo, os **testes** em outros varejistas se mostraram mais fáceis de se concluir em menor tempo e complexidade. 
+
+Foi observado na última semana de testes, que o site proposto passou por algumas reformulações que forçaram o teste no "carrinho de compras" se refeito por 3 vezes devido a mudanças constantes no mesmo.
+
+ Fato este que proporcionou **muito mais horas** de estudo e busca de soluções para a construção e término do teste   
 
 
 
