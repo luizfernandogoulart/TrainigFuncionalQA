@@ -150,9 +150,7 @@ O site do NodeJS oferece duas opções para download, a LTS e a "current" (atual
 
 ## 4 - Agradecimentos
 
-​	Agradeço de coração, a todos que puderam participar com qualquer ajuda na confecção, estudo e melhoria deste projeto. 
-
-Esperamos seguir a diante.
+​	Agradeço, a todos que puderam participar com qualquer ajuda. Seja na confecção, estudo e melhoria deste projeto. Esperamos poder seguir a diante.
 
 
 
