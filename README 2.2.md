@@ -26,22 +26,22 @@ Para entendimento inicial, o curso tem como objetivo capacitar colaboradores da 
 
  - #### **1.2 - Software**
 
-    - VSCode - https://code.visualstudio.com - versão 1.68.1
+    - VSCode - https://code.visualstudio.com/ - versão 1.68.1
 
-    - Node.js - https://nodejs.org/en - versão 16.13.2
+    - Node.js - https://nodejs.org/en/ - versão 16.13.2
 
-    - Cypress - https://cypress.io - versão 10.3.0
+    - Cypress - https://cypress.io/ - versão 10.3.0
 
-    - Postman - https://www.postman.com - versão 9.21.0
+    - Postman - https://www.postman.com/ - versão 9.21.0
 
-    - Typora - https://typora.io - versão 1.3
+    - Typora - https://typora.io/ - versão 1.3
 
 
  - #### **1.3 - Sites de Apoio e Teste**
 
-     - Openweathermap - https://openweathermap.org/current 
-     - GitHub - https://github.com
-     - Git - https://git-scm.com
+     - Openweathermap - https://openweathermap.org/current/
+     - GitHub - https://github.com/
+     - Git - https://git-scm.com/
 
 
  - #### **1.4 - Linguagem de Programação**
@@ -71,8 +71,8 @@ Para entendimento inicial, o curso tem como objetivo capacitar colaboradores da 
 
  - #### **2.1 - Links úteis**
 
-    - Github Pessoal - https://github.com/luizfernandogoulart/Treinamento-Final-ASAP.git
-    - Github Desafio ASAP - https://github.com/qa-via-code-challenge/desafio-asaplog
+    - Github Pessoal - https://github.com/luizfernandogoulart/Treinamento-Final-ASAP.git/
+    - Github Desafio ASAP - https://github.com/qa-via-code-challenge/desafio-asaplog/
 
 
 
@@ -93,14 +93,12 @@ Para entendimento inicial, o curso tem como objetivo capacitar colaboradores da 
 
 ​		Caso já tenha instalado o **NodeJS** não siga este passo. 
 
-​		**Via browser** - https://nodejs.org/dist/v16.16.0/node-v16.16.0-x64.msi
+​		**Via browser** - https://nodejs.org/dist/v16.16.0/node-v16.16.0-x64.msi/
 
-​	**Via terminal**, siga os passos abaixo:
-
-​	    
+​	**Via terminal**, siga os passos abaixo:	    
 
 
-​		a) Abra uma janela do terminal em seu computador. 
+​		**3.21** - Abra uma janela do terminal em seu computador. 
 
 ​			**Windows**: Você pode acessar a busca no menu inicial e procurar por Prompt de Comando.
 
@@ -108,7 +106,7 @@ Para entendimento inicial, o curso tem como objetivo capacitar colaboradores da 
 
 ​			**Linux (Ubuntu)**: O Terminal está disponível no menu de Programas/Aplicações.        
 
-​     		b) No terminal, digite **node --version** - caso retorne um número de versão, como por exemplo, 	v16.13.1, o NodeJS já está instalado. 
+​     **3.22** - No terminal, digite **node --version** - caso retorne um número de versão,  o NodeJS já estará instalado. 
 
 ​		O site do NodeJS oferece duas opções para download, a LTS e a "current" (atual).
 
@@ -122,7 +120,7 @@ Para entendimento inicial, o curso tem como objetivo capacitar colaboradores da 
 
 ​		O **Visual Studio Code** é o editor utilizado neste projeto para edição do código dos testes.	
 
-​		**Via browser** - https://code.visualstudio.com
+​		**Via browser** - https://code.visualstudio.com/
 
 ​		A instrução de instalação é bem simples, basta clicar no executável e seguir as instruções.     
 
@@ -132,7 +130,7 @@ Para entendimento inicial, o curso tem como objetivo capacitar colaboradores da 
 
 ​		O **Cypress** é um framework para automação de testes end-to-end, que utiliza o **JavaScript** como linguagem de programação. 
 
-​		**Via browser** - https://download.cypress.io/desktop
+​		**Via browser** - https://download.cypress.io/desktop/
 
 ​			A instrução de instalação é simples, clique no executável e siga as instruções.
 
@@ -144,7 +142,7 @@ Para entendimento inicial, o curso tem como objetivo capacitar colaboradores da 
 
 ​		O **Postman** é uma plataforma de testes de API para projetar, **testar** e iterar APIs e suas nuances.
 
-​		**Via browser** - https://dl.pstmn.io/download/latest/win64
+​		**Via browser** - https://dl.pstmn.io/download/latest/win64/
 
 ​			A instrução é simples, clique no executável e siga as instruções.	    
 
