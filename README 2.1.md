@@ -2,7 +2,7 @@
 
 
 
-## Projeto de Conclusão - ASAPLOG
+## Projeto Acelera ASAPLOG
 
 
 
@@ -34,7 +34,7 @@ Para entendimento inicial, o curso tem como objetivo capacitar colaboradores da 
     - Postman - https://www.postman.com/ - versão 9.21.0
 
     - Typora - https://typora.io/ - versão 1.3
-    - 
+
  - **1.33 - Sites de Apoio e Teste**
 
      - Git - https://git-scm.com/
@@ -65,6 +65,7 @@ Para entendimento inicial, o curso tem como objetivo capacitar colaboradores da 
 
 
  - **2.1 - Links úteis**
+
     - Github Pessoal - https://github.com/luizfernandogoulart/Treinamento-Final-ASAP.git
     - Github Desafio ASAP - https://github.com/qa-via-code-challenge/desafio-asaplog
 
@@ -114,16 +115,12 @@ Neste projeto utilizamos a versão LTS (**Long Term Support**).
 
 
 
-
-
 - **3.3 - Visual Studio Code**
 
 O **Visual Studio Code** é o editor utilizado neste projeto para edição do código dos testes.	
 
 ​		**Via browser** - https://code.visualstudio.com/ 
 ​	A instrução de instalação é bem simples, basta clicar no executável e seguir as instruções
-
-
 
 
 
@@ -136,8 +133,6 @@ O **Cypress** é um framework para automação de testes end-to-end, que utiliza
 ​			A instrução de instalação é simples, clique no executável e siga as instruções
 
 ​		**Via VSCode** - npm install cypress
-
-
 
 
 
