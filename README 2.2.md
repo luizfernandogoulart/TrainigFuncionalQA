@@ -144,21 +144,28 @@ Para entendimento inicial, o curso tem como objetivo capacitar colaboradores da 
 
 ## 4 - Execução dos Testes
 
-​	Para este projeto, os testes foram aplicados na principal site bandeiras Via. O site das [Casas Bahia](https://www.casasbahia.com.br/) foi utilizado no case de estudo para aplicação dos testes. Na segunda parte do projeto fora utilizado a API do site [Openweathermap](https://openweathermap.org/current) para teste de chamada de dados de tempo.
+Para este projeto, os testes foram aplicados no principal site de vendas da Via. O site das [Casas Bahia](https://www.casasbahia.com.br/) foi utilizado no case de estudo para aplicação dos testes. Na segunda parte do projeto fora utilizado a **API** do site [Openweathermap](https://openweathermap.org/current) para teste de chamada de **dados de tempo**.
 
-Em observação após o término dos testes, pode se notar uma maior expertise nos testes via Cypress devido ao tempo aplicado e a complexidade que os testes exigiram. O site proposto, se mostrou muito mais complexo de se testar do que outros varejistas testados a princípio. 
+Em observação após o término dos testes, pode se notar uma maior expertise nos testes via **Cypress** devido ao **tempo aplicado** e a complexidade que os testes exigiram. O site proposto, se mostrou muito mais complexo de se testar do que outros varejistas testados a princípio. 
 
 Conforme a expertise no **framework** de teste foi ganhando corpo, os **testes** em outros varejistas se mostraram mais fáceis de se concluir em menor tempo e complexidade. 
 
-Foi observado na última semana de testes, que o site proposto passou por algumas reformulações que forçaram o teste no "carrinho de compras" se refeito por 3 vezes devido a mudanças constantes no mesmo.
+Foi observado na última semana de testes, que o site das **Casas Bahia** passou por algumas **reformulações** que forçaram o **teste completo** no "**carrinho de compras**" se refeito por 3 vezes devido a mudanças constantes no algoritmo do carrinho e na última parte do processo de vendas.
 
- Fato este que proporcionou **muito mais horas** de estudo e busca de soluções para a construção e término do teste   
+ Fato este que proporcionou **muito mais horas** de estudo e busca de soluções para a construção e término do teste.   
 
 
 
 ## 5 - Autor
 
-**Luiz Fernando Goulart** em estudo e desenvolvimento há 10 meses a partir do curso de aprendizado em **QA** inicialmente a partir da plataforma [Alura](https://www.alura.com.br/) e complementado com pesquisas complementares a parte no **Youtube** e em livros. 
+**Luiz Fernando Goulart** em estudo e desenvolvimento há 10 meses a partir do curso de aprendizado na trilha de conhecimento conhecida como **QA**. 
+O estudo deu-se inicialmente a partir da plataforma [Alura](https://www.alura.com.br/) e complementado com pesquisas suplementares em parte no **Youtube** e em livros físicos. 
+
+Este autor é formado em Ciências Contábeis, entrou na Via em 2013 como **Supervisão de Operações Logísticas** , vindo do RJ e lotado hoje no departamento de **Planejamento Financeiro de Fretes** a nível Brasil, sendo responsável pelo **monitoramento** e controle de toda a despesa de **Frete de Entrega das Vendas Online**. Controle e monitoramento este que deriva **insight diários** que produzem economia real na operação logística.  
+
+A expertise acumulada de certo tempo na via proporcionou algum conhecimento na construções de indicadores na busca de economia e utilizando-se as plataformas **SAS** e **PowerBi** como alavancas de produção de estudo estatísticos seja na **Operação Logística** quanto na ênfase **Econômica Operacional Logística**.
+
+A busca pela equação que equilibre o operacional e a economia é a meca de todo analista, desta forma  acredito que possa fazer um grande trabalho migrando para novas paragens dentro do **algoritmo** dessa grande máquina de fazer dinheiro que é a Via.  
 
 
 
