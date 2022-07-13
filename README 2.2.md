@@ -53,7 +53,7 @@ Para entendimento inicial, o curso tem como objetivo capacitar colaboradores da 
 
  - #### **1.6 - Trilha Sonora**
 
-     - Via Spotify - [Jazz & Soul instrumental](https://open.spotify.com/playlist/37i9dQZF1E8FKiN3cZ16wN?si=a04cd5d119c741e1).
+     - Via Spotify - [Jazz & Soul instrumental](https://open.spotify.com/playlist/1AmDyRcMV7ebvwzmVjFoaL?si=37e9fbe34ce04cd2).
 
 - #### **1.7 - Combustível**
 
@@ -92,16 +92,16 @@ Para entendimento inicial, o curso tem como objetivo capacitar colaboradores da 
 ​		Caso já tenha instalado o **NodeJS** não siga este passo. 
 
 ​		**Via browser** - https://nodejs.org/dist/v16.16.0/node-v16.16.0-x64.msi
-​			**Via terminal**, siga os passos abaixo:
+​				**Via terminal**, siga os passos abaixo:
 
 
 ​		a) Abra uma janela do terminal em seu computador. 
 
-​	**Windows**: Você pode acessar a busca no menu inicial e procurar por Prompt de Comando.
+​			**Windows**: Você pode acessar a busca no menu inicial e procurar por Prompt de Comando.
 
-​	**MacOs**: O Terminal está disponível no menu de Aplicações, dentro da pasta de Utilitários.
+​			**MacOs**: O Terminal está disponível no menu de Aplicações, dentro da pasta de Utilitários.
 
-​	**Linux (Ubuntu)**: O Terminal está disponível no menu de Programas/Aplicações. 
+​			**Linux (Ubuntu)**: O Terminal está disponível no menu de Programas/Aplicações. 
 
 
 ​		b) No terminal, digite **node --version** - caso retorne um número de versão, como por exemplo, 	v16.13.1, o NodeJS já está instalado.
