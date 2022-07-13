@@ -19,10 +19,11 @@ Para entendimento inicial, o curso tem como objetivo capacitar colaboradores da 
 ## 1 - Requisitos utilizados no Desenvolvimento do Projeto
 
 
- - **1.1 - Equipamento**
+ - #### **1.1 - Equipamento**
 
     - Notebook Dell - Core i5 2021 - com **16**GB RAM e **250**GB de Armazenamento 
- - **1.2 - Software**
+
+ - #### **1.2 - Software**
 
     - VSCode - https://code.visualstudio.com - versão 1.68.1
 
@@ -33,23 +34,28 @@ Para entendimento inicial, o curso tem como objetivo capacitar colaboradores da 
     - Postman - https://www.postman.com - versão 9.21.0
 
     - Typora - https://typora.io - versão 1.3
- - **1.33 - Sites de Apoio e Teste**
+
+ - #### **1.33 - Sites de Apoio e Teste**
+
      - Openweathermap - https://openweathermap.org/current 
      - GitHub - https://github.com
      - Git - https://git-scm.com
- - **1.4 - Linguagem de Programação**
+
+ - #### **1.4 - Linguagem de Programação**
+     
      - JavaScript
- - **1.5 - Conexão**
+     
+ - #### **1.5 - Conexão**
 
-     - Via rede **wifi** - prédio de TI - Hub São Caetano do Sul - Jul/22
-     - Via rede **wifi** - caseira - Jul/22
+     - Via rede **Wifi** - prédio de TI - Hub São Caetano do Sul - Jul/22
+     - Via rede **Wifi** - caseira - Jul/22
 
 
- - **1.6 - Trilha Sonora**
+ - #### **1.6 - Trilha Sonora**
 
-     - Via Spotify - Jazz & Soul instrumental.
+     - Via Spotify - [Jazz & Soul instrumental](https://open.spotify.com/playlist/37i9dQZF1E8FKiN3cZ16wN?si=a04cd5d119c741e1).
 
-- **1.7 - Combustível**
+- #### **1.7 - Combustível**
 
      - Café e Chá Mate
 
@@ -59,7 +65,7 @@ Para entendimento inicial, o curso tem como objetivo capacitar colaboradores da 
 
 
 
- - **2.1 - Links úteis**
+ - #### **2.1 - Links úteis**
 
     - Github Pessoal - https://github.com/luizfernandogoulart/Treinamento-Final-ASAP.git
     - Github Desafio ASAP - https://github.com/qa-via-code-challenge/desafio-asaplog
@@ -72,7 +78,7 @@ Para entendimento inicial, o curso tem como objetivo capacitar colaboradores da 
 
 
 
-- **3.1 - Softwares úteis**
+- #### **3.1 - Softwares úteis**
 
   - **NodeJS**, necessário para executar código JavaScript;
   - **Visual Studio Code** ou VSC (Editor que usamos para escrever código);
@@ -81,7 +87,7 @@ Para entendimento inicial, o curso tem como objetivo capacitar colaboradores da 
 
   
 
-- **3.2 - NodeJS**
+- #### **3.2 - NodeJS**
 
 ​		Caso já tenha instalado o **NodeJS** não siga este passo. 
 
@@ -109,7 +115,7 @@ O site do NodeJS oferece duas opções para download, a LTS e a "current" (atual
 
 
 
-- **3.3 - Visual Studio Code**
+- #### **3.3 - Visual Studio Code**
 
 ​		O **Visual Studio Code** é o editor utilizado neste projeto para edição do código dos testes.	
 
@@ -119,7 +125,7 @@ O site do NodeJS oferece duas opções para download, a LTS e a "current" (atual
 
 
 
-- **3.4 - Cypress**
+- #### **3.4 - Cypress**
 
 ​		O **Cypress** é um framework para automação de testes end-to-end, que utiliza o **JavaScript** como linguagem de programação. 
 
@@ -131,7 +137,7 @@ O site do NodeJS oferece duas opções para download, a LTS e a "current" (atual
 
 
 
-- **3.5 - Postman**
+- #### **3.5 - Postman**
 
 ​		O **Postman** é uma plataforma de testes de API para projetar, **testar** e iterar APIs e suas nuances.
 
