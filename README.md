@@ -1,6 +1,6 @@
 ## Desafio-Asaplog
 
-# O que será avaliado neste Teste Prático
+# O que será avaliado neste Teste Prático (TESTEANDO EDIÇÂO DE README)
 
 * Boas práticas e padrões; 
 * Estrutura de pastas e código;  
