@@ -91,28 +91,15 @@ Para entendimento inicial, o curso tem como objetivo capacitar colaboradores da 
 
 - #### **3.2 - NodeJS**
 
-​		Caso já tenha instalado o **NodeJS** não siga este passo. 
+​		O **NodeJS** é software baseado no interpretador [V8](https://pt.wikipedia.org/wiki/Node.js) que permite a execução de códigos JavaScript.
 
-​		**Via browser** - https://nodejs.org/dist/v16.16.0/node-v16.16.0-x64.msi/
+​		**Via browser** - https://nodejs.org/en/
 
-​	**Via terminal**, siga os passos abaixo:	    
+​		O site do NodeJS oferece duas opções para download, a LTS e a "current" (atual).
 
+​		Neste projeto utilizamos a versão LTS (**Long Term Support**).
 
-​			**3.21** - Abra uma janela do terminal em seu computador. 
-
-​			**Windows**: Você pode acessar a busca no menu inicial e procurar por Prompt de Comando.
-
-​			**MacOs**: O Terminal está disponível no menu de Aplicações, dentro da pasta de Utilitários.
-
-​			**Linux (Ubuntu)**: O Terminal está disponível no menu de Programas/Aplicações.        
-
-​     	**3.22** - No terminal, digite **node --version** - caso retorne um número de versão,  o NodeJS já estará instalado. 
-
-​			O site do NodeJS oferece duas opções para download, a LTS e a "current" (atual).
-
-​			Neste projeto utilizamos a versão LTS (**Long Term Support**).
-
-​			Caso precise de mais **instruções técnicas** veja mais detalhes na página do [NodeJS](https://nodejs.org/pt-br/download/package-manager/).    
+​		Caso precise de mais **instruções técnicas** veja mais detalhes na página do [NodeJS](https://nodejs.org/pt-br/download/package-manager/).    
 
    
 
