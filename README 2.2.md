@@ -42,7 +42,7 @@ Para entendimento inicial, o curso tem como objetivo capacitar colaboradores da 
      - Git - https://git-scm.com
 
  - #### **1.4 - Linguagem de Programação**
-     
+   
      - JavaScript
      
  - #### **1.5 - Conexão**
@@ -114,7 +114,9 @@ O site do NodeJS oferece duas opções para download, a LTS e a "current" (atual
 
 ​		Neste projeto utilizamos a versão LTS (**Long Term Support**).
 
+​    
 
+​    
 
 - #### **3.3 - Visual Studio Code**
 
