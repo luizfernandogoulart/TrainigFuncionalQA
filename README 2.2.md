@@ -100,7 +100,9 @@ Para entendimento inicial, o curso tem como objetivo capacitar colaboradores da 
 
 ​		b) No terminal, digite **node --version** - caso retorne um número de versão, como por exemplo, 	v16.13.1, o NodeJS já está instalado.
 
-​		Caso precise instalar, siga as instruções para cada sistema operacional que estão na página inicial do [NodeJS](https://nodejs.org/pt-br/download/package-manager/).  O site do NodeJS oferece duas opções para download, a LTS e a "current" (atual).
+​		Caso precise instalar, siga as instruções para cada sistema operacional que estão na página inicial do [NodeJS](https://nodejs.org/pt-br/download/package-manager/).  
+
+O site do NodeJS oferece duas opções para download, a LTS e a "current" (atual).
 
 
 ​		Neste projeto utilizamos a versão LTS (**Long Term Support**).
