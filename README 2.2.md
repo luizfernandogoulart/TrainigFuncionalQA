@@ -110,18 +110,13 @@ Para entendimento inicial, o curso tem como objetivo capacitar colaboradores da 
 
 ​			**Linux (Ubuntu)**: O Terminal está disponível no menu de Programas/Aplicações.        
 
-​     
+​     		b) No terminal, digite **node --version** - caso retorne um número de versão, como por exemplo, 	v16.13.1, o NodeJS já está instalado.
 
+​			aso precise instalar, siga as instruções para cada sistema operacional que estão na página inicial do [NodeJS](https://nodejs.org/pt-br/download/package-manager/).  
 
-​		b) No terminal, digite **node --version** - caso retorne um número de versão, como por exemplo, 	v16.13.1, o NodeJS já está instalado.
+​		O site do NodeJS oferece duas opções para download, a LTS e a "current" (atual).
 
-​		Caso precise instalar, siga as instruções para cada sistema operacional que estão na página inicial do [NodeJS](https://nodejs.org/pt-br/download/package-manager/).  
-
-O site do NodeJS oferece duas opções para download, a LTS e a "current" (atual).
-
-​		Neste projeto utilizamos a versão LTS (**Long Term Support**).
-
-​	    
+​		Neste projeto utilizamos a versão LTS (**Long Term Support**).    
 
    
 
@@ -131,9 +126,9 @@ O site do NodeJS oferece duas opções para download, a LTS e a "current" (atual
 
 ​		**Via browser** - https://code.visualstudio.com
 
-​		A instrução de instalação é bem simples, basta clicar no executável e seguir as instruções.      
+​		A instrução de instalação é bem simples, basta clicar no executável e seguir as instruções.     
 
-   
+ 
 
 - #### **3.4 - Cypress**
 
@@ -143,9 +138,9 @@ O site do NodeJS oferece duas opções para download, a LTS e a "current" (atual
 
 ​			A instrução de instalação é simples, clique no executável e siga as instruções.
 
-​		**Via VSCode** - npm install cypress   
+​		**Via VSCode** - npm install cypress    
 
-​    
+
 
 - #### **3.5 - Postman**
 
@@ -153,11 +148,9 @@ O site do NodeJS oferece duas opções para download, a LTS e a "current" (atual
 
 ​		**Via browser** - https://dl.pstmn.io/download/latest/win64
 
-​			A instrução é simples, clique no executável e siga as instruções.
+​			A instrução é simples, clique no executável e siga as instruções.	    
 
-   
 
-​	    
 
 ## 4 - Agradecimentos
 
@@ -166,6 +159,3 @@ Agradeço, a todos que puderam participar com qualquer ajuda.
 Seja na confecção, estudo e melhoria deste projeto. 
 
 Esperamos poder seguir a diante.
-
-
-
