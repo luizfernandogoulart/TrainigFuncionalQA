@@ -62,7 +62,7 @@ Para entendimento inicial, o curso tem como objetivo capacitar colaboradores da 
 
  - **1.6 - Trilha Sonora**
 
-  - Via Spotify - Jazz & Soul instrumental
+  - Via Spotify - Jazz & Soul instrumental.
 
   
 
