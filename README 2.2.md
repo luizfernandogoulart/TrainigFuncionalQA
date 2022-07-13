@@ -99,6 +99,8 @@ Para entendimento inicial, o curso tem como objetivo capacitar colaboradores da 
 
 ​	**Via terminal**, siga os passos abaixo:
 
+​	    
+
 
 ​		a) Abra uma janela do terminal em seu computador. 
 
@@ -117,8 +119,9 @@ Para entendimento inicial, o curso tem como objetivo capacitar colaboradores da 
 
 O site do NodeJS oferece duas opções para download, a LTS e a "current" (atual).
 
-
 ​		Neste projeto utilizamos a versão LTS (**Long Term Support**).
+
+​	    
 
    
 
@@ -154,7 +157,7 @@ O site do NodeJS oferece duas opções para download, a LTS e a "current" (atual
 
    
 
-
+​	    
 
 ## 4 - Agradecimentos
 
