@@ -40,40 +40,34 @@ Para entendimento inicial, o curso tem como objetivo capacitar colaboradores da 
 
      
 
-	- **1.33 - Sites de Apoio e Teste**
-	
-	 - Git - https://git-scm.com/
-	 - Openweathermap - https://openweathermap.org/current
-	
-	
-	
+ - **1.33 - Sites de Apoio e Teste**
+
+     - Git - https://git-scm.com/
+     - Openweathermap - https://openweathermap.org/current
+
+    
+
  - **1.4 - Linguagem de Programação**
 
-   - JavaScript
+     - JavaScript
 
      
 
  - **1.5 - Conexão**
 
-  - [x] Via rede **wifi** - prédio de TI - Hub São Caetano do Sul - Jul/22
-
-  Via rede **wifi** - caseira - Jul/22
-
- 
-
-
-
+     - Via rede **wifi** - prédio de TI - Hub São Caetano do Sul - Jul/22
+     - Via rede **wifi** - caseira - Jul/22
 
 
  - **1.6 - Trilha Sonora**
 
-  - Via Spotify - Jazz & Soul instrumental.
+     - Via Spotify - Jazz & Soul instrumental.
 
   
 
 - **1.7 - Combustível**
 
-  	- Café e Chá Mate
+     - Café e Chá Mate
 
 
 
