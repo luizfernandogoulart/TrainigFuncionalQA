@@ -1,4 +1,4 @@
-# Projeto de Conclusão de Curso - Desafio-Asaplog 
+# Projeto de Conclusão de Curso - Desafio QA - Code Chalenge - Asaplog 
 
 
 
@@ -25,24 +25,24 @@ Para entendimento inicial, o curso tem como objetivo capacitar colaboradores da 
 
  - **1.2 - Software**
 
-    - VSCode - https://code.visualstudio.com/ - versão 1.68.1
+    - VSCode - https://code.visualstudio.com - versão 1.68.1
 
-    - Node.js - https://nodejs.org/en/ - versão 16.13.2
+    - Node.js - https://nodejs.org/en - versão 16.13.2
 
-    - Cypress - https://cypress.io/ - versão 10.3.0
+    - Cypress - https://cypress.io - versão 10.3.0
 
-    - Postman - https://www.postman.com/ - versão 9.21.0
+    - Postman - https://www.postman.com - versão 9.21.0
 
-    - Typora - https://typora.io/ - versão 1.3
+    - Typora - https://typora.io - versão 1.3
 
  - **1.33 - Sites de Apoio e Teste**
-     - Git - https://git-scm.com/
+- Git - https://git-scm.com
      - Openweathermap - https://openweathermap.org/current 
-     
+     - GitHub - https://github.com
+
  - **1.4 - Linguagem de Programação**
-
      - JavaScript
-
+     
  - **1.5 - Conexão**
 
      - Via rede **wifi** - prédio de TI - Hub São Caetano do Sul - Jul/22
@@ -87,43 +87,43 @@ Para entendimento inicial, o curso tem como objetivo capacitar colaboradores da 
 
 - **3.2 - NodeJS**
 
-Caso já tenha instalado o **NodeJS** não siga este passo. 
+​		Caso já tenha instalado o **NodeJS** não siga este passo. 
 
-​	**Via browser** - https://nodejs.org/dist/v16.16.0/node-v16.16.0-x64.msi
-​	**Via terminal**, siga os passos abaixo:
-
-
+​		**Via browser** - https://nodejs.org/dist/v16.16.0/node-v16.16.0-x64.msi
+​		**Via terminal**, siga os passos abaixo:
 
 
-a) Abra uma janela do terminal em seu computador. 
+​		a) Abra uma janela do terminal em seu computador. 
 
-**Windows**: Você pode acessar a busca no menu inicial e procurar por Prompt de Comando.
+​	**Windows**: Você pode acessar a busca no menu inicial e procurar por Prompt de Comando.
 
-**MacOs**: O Terminal está disponível no menu de Aplicações, dentro da pasta de Utilitários.
+​	**MacOs**: O Terminal está disponível no menu de Aplicações, dentro da pasta de Utilitários.
 
-**Linux (Ubuntu)**: O Terminal está disponível no menu de Programas/Aplicações. 
+​	**Linux (Ubuntu)**: O Terminal está disponível no menu de Programas/Aplicações. 
 
 
-b) No terminal, digite **node --version** - caso retorne um número de versão, como por exemplo, v16.13.1, o NodeJS já está instalado.
+​		b) No terminal, digite **node --version** - caso retorne um número de versão, como por exemplo, 	v16.13.1, o NodeJS já está instalado.
 
-Caso precise instalar, siga as instruções para cada sistema operacional que estão na página inicial do [NodeJS](https://nodejs.org/pt-br/download/package-manager/).  O site do NodeJS oferece duas opções para download, a LTS e a "current" (atual). 
-Neste projeto utilizamos a versão LTS (**Long Term Support**).
+​		Caso precise instalar, siga as instruções para cada sistema operacional que estão na página inicial do 		[NodeJS](https://nodejs.org/pt-br/download/package-manager/).  O site do NodeJS oferece duas opções para download, a LTS e a "current" (atual).
+
+
+​		Neste projeto utilizamos a versão LTS (**Long Term Support**).
 
 
 
 - **3.3 - Visual Studio Code**
 
-O **Visual Studio Code** é o editor utilizado neste projeto para edição do código dos testes.	
+​		O **Visual Studio Code** é o editor utilizado neste projeto para edição do código dos testes.	
 
-​		**Via browser** - https://code.visualstudio.com/ 
+​		**Via browser** - https://code.visualstudio.com
 
-​	A instrução de instalação é bem simples, basta clicar no executável e seguir as instruções
+​		A instrução de instalação é bem simples, basta clicar no executável e seguir as instruções
 
 
 
 - **3.4 - Cypress**
 
-O **Cypress** é um framework para automação de testes end-to-end, que utiliza o **JavaScript** como linguagem de programação. 
+​		O **Cypress** é um framework para automação de testes end-to-end, que utiliza o **JavaScript** como linguagem de programação. 
 
 ​		**Via browser** - https://download.cypress.io/desktop
 
@@ -135,7 +135,7 @@ O **Cypress** é um framework para automação de testes end-to-end, que utiliza
 
 - **3.5 - Postman**
 
-O **Postman** é uma plataforma de testes de API para projetar, **testar** e iterar APIs e suas nuances.
+​		O **Postman** é uma plataforma de testes de API para projetar, **testar** e iterar APIs e suas nuances.
 
 ​		**Via browser** - https://dl.pstmn.io/download/latest/win64
 
