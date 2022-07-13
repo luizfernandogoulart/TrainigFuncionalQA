@@ -45,7 +45,7 @@ Para entendimento inicial, o curso tem como objetivo capacitar colaboradores da 
      - Git - https://git-scm.com/
      - Openweathermap - https://openweathermap.org/current
 
-    
+​    
 
  - **1.4 - Linguagem de Programação**
 
@@ -101,13 +101,13 @@ Para entendimento inicial, o curso tem como objetivo capacitar colaboradores da 
 Caso já tenha instalado o **NodeJS** não siga este passo. 
 
 ​	**Via browser** - https://nodejs.org/dist/v16.16.0/node-v16.16.0-x64.msi
-
-
-
 ​	**Via terminal**, siga os passos abaixo:
 
 
+
+
 a) Abra uma janela do terminal em seu computador. 
+
 
 **Windows**: Você pode acessar a busca no menu inicial e procurar por Prompt de Comando.
 
@@ -115,14 +115,15 @@ a) Abra uma janela do terminal em seu computador.
 
 **Linux (Ubuntu)**: O Terminal está disponível no menu de Programas/Aplicações. 
 
-Caso não localize, pode estar dentro da pasta Utilitários.
 
 b) No terminal, digite **node --version** ou **node -v** - caso retorne um número de versão, como por exemplo, v16.13.1, o NodeJS já está instalado.
 
 Caso precise instalar, siga as instruções para cada sistema operacional que estão na página inicial do NodeJS.
 
 O site do NodeJS oferece duas opções para download, a LTS e a "current" (atual). 
-Neste projeto utilizamos a versão LTS (Long Term Support).
+Neste projeto utilizamos a versão LTS (**Long Term Support**).
+
+
 
 
 
@@ -135,6 +136,8 @@ O **Visual Studio Code** é o editor utilizado neste projeto para edição do c�
 
 
 
+
+
 - **3.4 - Cypress**
 
 O **Cypress** é um framework para automação de testes end-to-end, que utiliza o **JavaScript** como linguagem de programação. 
@@ -144,6 +147,8 @@ O **Cypress** é um framework para automação de testes end-to-end, que utiliza
 ​			A instrução de instalação é simples, clique no executável e siga as instruções
 
 ​		**Via VSCode** - npm install cypress
+
+
 
 
 
