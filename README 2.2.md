@@ -106,9 +106,7 @@ Para entendimento inicial, o curso tem como objetivo capacitar colaboradores da 
 
 ​			**MacOs**: O Terminal está disponível no menu de Aplicações, dentro da pasta de Utilitários.
 
-​			**Linux (Ubuntu)**: O Terminal está disponível no menu de Programas/Aplicações. 
-
-​       
+​			**Linux (Ubuntu)**: O Terminal está disponível no menu de Programas/Aplicações.        
 
 ​     
 
@@ -130,9 +128,7 @@ O site do NodeJS oferece duas opções para download, a LTS e a "current" (atual
 
 ​		**Via browser** - https://code.visualstudio.com
 
-​		A instrução de instalação é bem simples, basta clicar no executável e seguir as instruções.
-
-​      
+​		A instrução de instalação é bem simples, basta clicar no executável e seguir as instruções.      
 
    
 
@@ -144,11 +140,9 @@ O site do NodeJS oferece duas opções para download, a LTS e a "current" (atual
 
 ​			A instrução de instalação é simples, clique no executável e siga as instruções.
 
-​		**Via VSCode** - npm install cypress
+​		**Via VSCode** - npm install cypress   
 
-   
-
-
+​    
 
 - #### **3.5 - Postman**
 
