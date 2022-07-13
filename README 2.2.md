@@ -6,13 +6,13 @@
 
 
 
-Para entendimento inicial, o curso tem como objetivo capacitar colaboradores da Via, para atuação no departamento de TI.
+Para entendimento inicial, o curso tem como objetivo capacitar colaboradores da **Via**, para atuação no departamento de **TI**.
 
-​	Este white paper tem como objetivo informar a maior quantidade de informações possíveis que foram utilizadas neste projeto de conclusão de curso.
+​	Este white paper tem como objetivo informar a maior quantidade possível de informações segmentadas que foram utilizadas neste projeto.
 
-* Foram utilizadas as boas práticas aprendidas e padrões simples; 
+* Foram utilizadas as boas práticas aprendidas e com padrões simplórios; 
 * A Estrutura de pastas foi respeitada e o código foi versionado;  
-* Em virtude da baixa expertise, o código foi desenvolvido de forma simples).
+* Em virtude da baixa expertise, o código foi desenvolvido de forma e sem complexidade técnica).
 
 
 
@@ -83,7 +83,7 @@ Para entendimento inicial, o curso tem como objetivo capacitar colaboradores da 
   - **NodeJS**, necessário para executar código JavaScript;
   - **Visual Studio Code** ou VSC (Editor que usamos para escrever código);
   - **Cypress** no qual processaremos o teste **e2e** (end to end);
-  - **Postman** para teste de API
+  - **Postman** para teste de API.
 
   
 
@@ -122,7 +122,7 @@ O site do NodeJS oferece duas opções para download, a LTS e a "current" (atual
 
 ​		**Via browser** - https://code.visualstudio.com
 
-​		A instrução de instalação é bem simples, basta clicar no executável e seguir as instruções
+​		A instrução de instalação é bem simples, basta clicar no executável e seguir as instruções.
 
 
 
@@ -132,7 +132,7 @@ O site do NodeJS oferece duas opções para download, a LTS e a "current" (atual
 
 ​		**Via browser** - https://download.cypress.io/desktop
 
-​			A instrução de instalação é simples, clique no executável e siga as instruções
+​			A instrução de instalação é simples, clique no executável e siga as instruções.
 
 ​		**Via VSCode** - npm install cypress
 
@@ -144,7 +144,15 @@ O site do NodeJS oferece duas opções para download, a LTS e a "current" (atual
 
 ​		**Via browser** - https://dl.pstmn.io/download/latest/win64
 
-​			A instrução é simples, clique no executável e siga as instruções
+​			A instrução é simples, clique no executável e siga as instruções.
+
+
+
+## 4 - Agradecimentos
+
+​	Agradeço de coração, a todos que puderam participar com qualquer ajuda na confecção, estudo e melhoria deste projeto. 
+
+Esperamos seguir a diante.
 
 
 
