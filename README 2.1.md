@@ -55,10 +55,15 @@ Para entendimento inicial, o curso tem como objetivo capacitar colaboradores da 
 
  - **1.5 - Conexão**
 
-  - Via rede **wifi** - prédio de TI - Hub São Caetano do Sul - Jul/22
-  - Via rede **wifi** - caseira - Jul/22
+  - [x] Via rede **wifi** - prédio de TI - Hub São Caetano do Sul - Jul/22
 
-   
+  Via rede **wifi** - caseira - Jul/22
+
+ 
+
+
+
+
 
  - **1.6 - Trilha Sonora**
 
