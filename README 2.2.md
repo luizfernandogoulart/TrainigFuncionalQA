@@ -98,7 +98,7 @@ Para entendimento inicial, o curso tem como objetivo capacitar colaboradores da 
 ​	**Via terminal**, siga os passos abaixo:	    
 
 
-​		**3.21** - Abra uma janela do terminal em seu computador. 
+​			**3.21** - Abra uma janela do terminal em seu computador. 
 
 ​			**Windows**: Você pode acessar a busca no menu inicial e procurar por Prompt de Comando.
 
@@ -106,13 +106,13 @@ Para entendimento inicial, o curso tem como objetivo capacitar colaboradores da 
 
 ​			**Linux (Ubuntu)**: O Terminal está disponível no menu de Programas/Aplicações.        
 
-​     **3.22** - No terminal, digite **node --version** - caso retorne um número de versão,  o NodeJS já estará instalado. 
+​     	**3.22** - No terminal, digite **node --version** - caso retorne um número de versão,  o NodeJS já estará instalado. 
 
-​		O site do NodeJS oferece duas opções para download, a LTS e a "current" (atual).
+​			O site do NodeJS oferece duas opções para download, a LTS e a "current" (atual).
 
-​		Neste projeto utilizamos a versão LTS (**Long Term Support**).
+​			Neste projeto utilizamos a versão LTS (**Long Term Support**).
 
-​		Caso precise de mais **instruções técnicas** veja mais detalhes na página do [NodeJS](https://nodejs.org/pt-br/download/package-manager/).    
+​			Caso precise de mais **instruções técnicas** veja mais detalhes na página do [NodeJS](https://nodejs.org/pt-br/download/package-manager/).    
 
    
 
