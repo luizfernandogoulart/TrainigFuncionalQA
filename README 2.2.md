@@ -161,11 +161,11 @@ Foi observado na última semana de testes, que o site das **Casas Bahia** passou
 **Luiz Fernando Goulart** em estudo e desenvolvimento há 10 meses a partir do curso de aprendizado na trilha de conhecimento conhecida como **QA**. 
 O estudo deu-se inicialmente a partir da plataforma [Alura](https://www.alura.com.br/) e complementado com pesquisas suplementares em parte no **Youtube** e em livros físicos. 
 
-Este autor é formado em Ciências Contábeis, entrou na Via em 2013 como **Supervisão de Operações Logísticas** , vindo do RJ e lotado hoje no departamento de **Planejamento Financeiro de Fretes** a nível Brasil, sendo responsável pelo **monitoramento** e controle de toda a despesa de **Frete de Entrega das Vendas Online**. Controle e monitoramento este que deriva **insight diários** que produzem economia real na operação logística.  
+Este autor é formado em Ciências Contábeis, entrou na Via em 2013 como **Supervisão de Operações Logísticas** , vindo do **RJ** e lotado hoje no departamento de **Planejamento Financeiro de Fretes** a nível Brasil, sendo responsável pelo **monitoramento** e controle de toda a despesa de **Frete de Entrega das Vendas Online**. Controle e monitoramento este que deriva **insight diários** que produzem economia real na operação logística.  
 
-A expertise acumulada de certo tempo na via proporcionou algum conhecimento na construções de indicadores na busca de economia e utilizando-se as plataformas **SAS** e **PowerBi** como alavancas de produção de estudo estatísticos seja na **Operação Logística** quanto na ênfase **Econômica Operacional Logística**.
+A expertise acumulada de certo tempo na via proporcionou algum conhecimento na construção de indicadores, utilizando-se as plataformas **SAS** e **PowerBi** como alavancas de produção de estudo estatísticos seja na **Operação Logística** e também na **Economia Real** dos nossos Negócios.
 
-A busca pela equação que equilibre o operacional e a economia é a meca de todo analista, desta forma  acredito que possa fazer um grande trabalho migrando para novas paragens dentro do **algoritmo** dessa grande máquina de fazer dinheiro que é a Via.  
+A busca pela equação que equilibre o operacional e a economia é a meca de todo analista, desta forma  acredito que eu possa fazer um grande trabalho migrando para novas as novas paragens dentro do **algoritmo** dessa grande escola chamada **Via**.  
 
 
 
