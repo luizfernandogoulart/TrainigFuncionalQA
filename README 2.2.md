@@ -131,11 +131,7 @@ Para entendimento inicial, o curso tem como objetivo capacitar colaboradores da 
 
 ​		**Via VSCode** - npm install cypress
 
-<div>  </div> 
-<div>  </div> 
-<div>  </div> 
-<div>  </div> 
-<div>  </div> 
+
 
 - **3.5 - Postman**
 
