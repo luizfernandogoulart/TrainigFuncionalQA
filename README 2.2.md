@@ -10,9 +10,9 @@ Para entendimento inicial, o curso tem como objetivo capacitar colaboradores da 
 
 ​	Este white paper tem como objetivo informar a maior quantidade possível de informações segmentadas que foram utilizadas neste projeto.
 
-* Foram utilizadas as boas práticas aprendidas e com padrões simplórios; 
+* Foram utilizadas as boas práticas aprendidas e com padrões simplórios de aprendizado; 
 * A Estrutura de pastas foi respeitada e o código foi versionado;  
-* Em virtude da baixa expertise, o código foi desenvolvido de forma e sem complexidade técnica).
+* Em virtude da baixa expertise, o código foi desenvolvido de forma simples e sem complexidade técnica).
 
 
 
@@ -46,7 +46,7 @@ Para entendimento inicial, o curso tem como objetivo capacitar colaboradores da 
 
  - #### **1.4 - Linguagem de Programação**
 
-     - JavaScript
+     - JavaScript - https://www.javascript.com/
 
 
  - #### **1.5 - Conexão**
@@ -89,8 +89,6 @@ Para entendimento inicial, o curso tem como objetivo capacitar colaboradores da 
   - **Cypress** no qual processaremos o teste **e2e** (end to end);
   - **Postman** para teste de API.   
 
-  
-
 - #### **3.2 - NodeJS**
 
 ​		Caso já tenha instalado o **NodeJS** não siga este passo. 
@@ -110,13 +108,13 @@ Para entendimento inicial, o curso tem como objetivo capacitar colaboradores da 
 
 ​			**Linux (Ubuntu)**: O Terminal está disponível no menu de Programas/Aplicações.        
 
-​     		b) No terminal, digite **node --version** - caso retorne um número de versão, como por exemplo, 	v16.13.1, o NodeJS já está instalado.
-
-​			aso precise instalar, siga as instruções para cada sistema operacional que estão na página inicial do [NodeJS](https://nodejs.org/pt-br/download/package-manager/).  
+​     		b) No terminal, digite **node --version** - caso retorne um número de versão, como por exemplo, 	v16.13.1, o NodeJS já está instalado. 
 
 ​		O site do NodeJS oferece duas opções para download, a LTS e a "current" (atual).
 
-​		Neste projeto utilizamos a versão LTS (**Long Term Support**).    
+​		Neste projeto utilizamos a versão LTS (**Long Term Support**).
+
+​		Caso precise de mais **instruções técnicas** veja mais detalhes na página do [NodeJS](https://nodejs.org/pt-br/download/package-manager/).    
 
    
 
