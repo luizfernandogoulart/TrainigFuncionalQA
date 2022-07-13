@@ -10,7 +10,7 @@ Para entendimento inicial, o curso tem como objetivo capacitar colaboradores da 
 
 ​	Este white paper tem como objetivo informar a maior quantidade de informações possíveis que foram utilizadas neste projeto de conclusão de curso.
 
-* Foram utilizadas as Boas práticas aprendidas e padrões simples; 
+* Foram utilizadas as boas práticas aprendidas e padrões simples; 
 * A Estrutura de pastas foi respeitada e o código foi versionado;  
 * Em virtude da baixa expertise, o código foi desenvolvido de forma simples).
 
@@ -19,12 +19,9 @@ Para entendimento inicial, o curso tem como objetivo capacitar colaboradores da 
 ## 1 - Requisitos utilizados no Desenvolvimento do Projeto
 
 
-
  - **1.1 - Equipamento**
 
-    - Notebook Dell - Core i5 2021 - com **16**GB RAM e **250**GB de Armazenamento
-
-      
+    - Notebook Dell - Core i5 2021 - com **16**GB RAM e **250**GB de Armazenamento 
 
  - **1.2 - Software**
 
@@ -37,21 +34,15 @@ Para entendimento inicial, o curso tem como objetivo capacitar colaboradores da 
     - Postman - https://www.postman.com/ - versão 9.21.0
 
     - Typora - https://typora.io/ - versão 1.3
-
-     
-
+    - 
  - **1.33 - Sites de Apoio e Teste**
 
      - Git - https://git-scm.com/
-     - Openweathermap - https://openweathermap.org/current
-
-​    
+     - Openweathermap - https://openweathermap.org/current 
 
  - **1.4 - Linguagem de Programação**
 
      - JavaScript
-
-     
 
  - **1.5 - Conexão**
 
@@ -62,8 +53,6 @@ Para entendimento inicial, o curso tem como objetivo capacitar colaboradores da 
  - **1.6 - Trilha Sonora**
 
      - Via Spotify - Jazz & Soul instrumental.
-
-  
 
 - **1.7 - Combustível**
 
