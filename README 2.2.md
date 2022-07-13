@@ -23,6 +23,9 @@ Para entendimento inicial, o curso tem como objetivo capacitar colaboradores da 
 
     - Notebook Dell - Core i5 2021 - com **16**GB RAM e **250**GB de Armazenamento 
 
+   
+
+
  - #### **1.2 - Software**
 
     - VSCode - https://code.visualstudio.com - versão 1.68.1
@@ -35,25 +38,40 @@ Para entendimento inicial, o curso tem como objetivo capacitar colaboradores da 
 
     - Typora - https://typora.io - versão 1.3
 
- - #### **1.33 - Sites de Apoio e Teste**
+   
+
+
+ - #### **1.3 - Sites de Apoio e Teste**
 
      - Openweathermap - https://openweathermap.org/current 
      - GitHub - https://github.com
      - Git - https://git-scm.com
 
- - #### **1.4 - Linguagem de Programação**
    
+
+
+ - #### **1.4 - Linguagem de Programação**
+
      - JavaScript
-     
+
+   
+
+
  - #### **1.5 - Conexão**
 
      - Via rede **Wifi** - prédio de TI - Hub São Caetano do Sul - Jul/22
      - Via rede **Wifi** - caseira - Jul/22
 
+   
+
 
  - #### **1.6 - Trilha Sonora**
 
-     - Via Spotify - [Jazz & Soul instrumental](https://open.spotify.com/playlist/1AmDyRcMV7ebvwzmVjFoaL?si=37e9fbe34ce04cd2).
+     - Via Spotify - [Jazz & Soul instrumental](https://open.spotify.com/playlist/1AmDyRcMV7ebvwzmVjFoaL?si=37e9fbe34ce04cd2) 
+
+        
+
+     
 
 - #### **1.7 - Combustível**
 
@@ -85,6 +103,8 @@ Para entendimento inicial, o curso tem como objetivo capacitar colaboradores da 
   - **Cypress** no qual processaremos o teste **e2e** (end to end);
   - **Postman** para teste de API.
 
+     
+
   
 
 - #### **3.2 - NodeJS**
@@ -104,6 +124,8 @@ Para entendimento inicial, o curso tem como objetivo capacitar colaboradores da 
 
 ​			**Linux (Ubuntu)**: O Terminal está disponível no menu de Programas/Aplicações. 
 
+   
+
 
 ​		b) No terminal, digite **node --version** - caso retorne um número de versão, como por exemplo, 	v16.13.1, o NodeJS já está instalado.
 
@@ -114,9 +136,7 @@ O site do NodeJS oferece duas opções para download, a LTS e a "current" (atual
 
 ​		Neste projeto utilizamos a versão LTS (**Long Term Support**).
 
-​    
-
-​    
+   
 
 - #### **3.3 - Visual Studio Code**
 
@@ -125,6 +145,8 @@ O site do NodeJS oferece duas opções para download, a LTS e a "current" (atual
 ​		**Via browser** - https://code.visualstudio.com
 
 ​		A instrução de instalação é bem simples, basta clicar no executável e seguir as instruções.
+
+   
 
 
 
@@ -138,6 +160,8 @@ O site do NodeJS oferece duas opções para download, a LTS e a "current" (atual
 
 ​		**Via VSCode** - npm install cypress
 
+   
+
 
 
 - #### **3.5 - Postman**
@@ -147,6 +171,8 @@ O site do NodeJS oferece duas opções para download, a LTS e a "current" (atual
 ​		**Via browser** - https://dl.pstmn.io/download/latest/win64
 
 ​			A instrução é simples, clique no executável e siga as instruções.
+
+   
 
 
 
