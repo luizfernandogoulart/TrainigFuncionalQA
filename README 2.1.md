@@ -120,6 +120,7 @@ Neste projeto utilizamos a versão LTS (**Long Term Support**).
 O **Visual Studio Code** é o editor utilizado neste projeto para edição do código dos testes.	
 
 ​		**Via browser** - https://code.visualstudio.com/ 
+
 ​	A instrução de instalação é bem simples, basta clicar no executável e seguir as instruções
 
 
@@ -141,6 +142,7 @@ O **Cypress** é um framework para automação de testes end-to-end, que utiliza
 O **Postman** é uma plataforma de testes de API para projetar, **testar** e iterar APIs e suas nuances.
 
 ​		**Via browser** - https://dl.pstmn.io/download/latest/win64
+
 ​			A instrução é simples, clique no executável e siga as instruções
 
 
