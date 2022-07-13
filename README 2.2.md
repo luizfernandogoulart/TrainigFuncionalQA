@@ -191,6 +191,10 @@ Contribuíram para este projeto com sua magnânima ajuda:
 
 Agradeço, a todos que puderam participar com qualquer ajuda. 
 
-Seja na confecção, estudo e melhoria deste projeto. 
+Seja na confecção, estudo e melhoria deste projeto.
 
-Esperamos poder seguir a diante.
+
+
+## 
+
+Esperamos poder seguir a diante >>
