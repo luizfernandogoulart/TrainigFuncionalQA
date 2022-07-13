@@ -22,7 +22,6 @@ Para entendimento inicial, o curso tem como objetivo capacitar colaboradores da 
  - **1.1 - Equipamento**
 
     - Notebook Dell - Core i5 2021 - com **16**GB RAM e **250**GB de Armazenamento 
-
  - **1.2 - Software**
 
     - VSCode - https://code.visualstudio.com - versão 1.68.1
@@ -34,15 +33,12 @@ Para entendimento inicial, o curso tem como objetivo capacitar colaboradores da 
     - Postman - https://www.postman.com - versão 9.21.0
 
     - Typora - https://typora.io - versão 1.3
-
  - **1.33 - Sites de Apoio e Teste**
-- Git - https://git-scm.com
      - Openweathermap - https://openweathermap.org/current 
      - GitHub - https://github.com
-
+     - Git - https://git-scm.com
  - **1.4 - Linguagem de Programação**
      - JavaScript
-     
  - **1.5 - Conexão**
 
      - Via rede **wifi** - prédio de TI - Hub São Caetano do Sul - Jul/22
@@ -90,7 +86,7 @@ Para entendimento inicial, o curso tem como objetivo capacitar colaboradores da 
 ​		Caso já tenha instalado o **NodeJS** não siga este passo. 
 
 ​		**Via browser** - https://nodejs.org/dist/v16.16.0/node-v16.16.0-x64.msi
-​		**Via terminal**, siga os passos abaixo:
+​			**Via terminal**, siga os passos abaixo:
 
 
 ​		a) Abra uma janela do terminal em seu computador. 
@@ -104,7 +100,7 @@ Para entendimento inicial, o curso tem como objetivo capacitar colaboradores da 
 
 ​		b) No terminal, digite **node --version** - caso retorne um número de versão, como por exemplo, 	v16.13.1, o NodeJS já está instalado.
 
-​		Caso precise instalar, siga as instruções para cada sistema operacional que estão na página inicial do 		[NodeJS](https://nodejs.org/pt-br/download/package-manager/).  O site do NodeJS oferece duas opções para download, a LTS e a "current" (atual).
+​		Caso precise instalar, siga as instruções para cada sistema operacional que estão na página inicial do [NodeJS](https://nodejs.org/pt-br/download/package-manager/).  O site do NodeJS oferece duas opções para download, a LTS e a "current" (atual).
 
 
 ​		Neste projeto utilizamos a versão LTS (**Long Term Support**).
